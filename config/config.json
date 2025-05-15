@@ -1,0 +1,6 @@
+{
+  "port": "8080",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "jwt_secret": "supersecretkey",
+  "default_user_quota_mb": 50
+}
