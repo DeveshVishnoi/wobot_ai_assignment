@@ -16,7 +16,7 @@ git clone https://github.com/DeveshVishno/Wobot_AI_Assignment.git
 Go to the project directory
 
 ```bash
-  cd Wobot_AI_Assignment
+  cd wobot_ai_assignment
 ```
 
 To run the project locally
