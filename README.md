@@ -10,7 +10,7 @@
 ### Clone the project
 
 ```bash
-git clone https://github.com/DeveshVishno/Wobot_AI_Assignment.git
+git clone https://github.com/DeveshVishnoi/wobot_ai_assignment.git
 ```
 
 Go to the project directory
